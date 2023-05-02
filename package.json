@@ -1,0 +1,26 @@
+{
+  "name": "erc_20_implementation",
+  "version": "1.0.0",
+  "description": "handling with more understanding the use of erc20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/je-martini/erc_20_implementation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/je-martini/erc_20_implementation/issues"
+  },
+  "homepage": "https://github.com/je-martini/erc_20_implementation#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "hardhat": "^2.14.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
