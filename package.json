@@ -18,9 +18,11 @@
   "homepage": "https://github.com/je-martini/erc_20_implementation#readme",
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.3",
     "hardhat": "^2.14.0"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@openzeppelin/hardhat-upgrades": "^1.23.1"
   }
 }
